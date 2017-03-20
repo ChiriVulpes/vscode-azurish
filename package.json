@@ -1,0 +1,26 @@
+{
+    "name": "theme-azurish",
+    "displayName": "Azurish",
+    "description": "The azure TextMate theme, ported and edited (to make it prettier)",
+    "version": "0.1.0",
+    "publisher": "Aarilight",
+    "engines": {
+        "vscode": "^1.9.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Azurish",
+                "uiTheme": "vs-dark",
+                "path": "./out/azure.tmTheme"
+            }
+        ]
+    },
+    "devDependencies": {
+        "plist": "^2.0.1",
+        "gulp": "^3.9.1"
+    }
+}
