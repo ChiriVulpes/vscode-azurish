@@ -15,8 +15,13 @@
             {
                 "label": "Azurish",
                 "uiTheme": "vs-dark",
-                "path": "./azurish.json"
+                "path": "azurish.json"
             }
         ]
+    },
+    "icon": "img/icon.png",
+     "repository": {
+        "type": "git",
+        "url": "https://github.com/aarilight/vscode-azurish.git"
     }
 }

@@ -3,4 +3,4 @@
 
 A syntax and application theme for VSCode, based on Azure for Sublime.
 
-![Preview](/preview.png?raw=true "Preview")
+![Preview](img/preview.png)
