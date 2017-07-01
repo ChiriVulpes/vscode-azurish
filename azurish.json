@@ -159,9 +159,16 @@
 		},
 		{
 			"name": "Class name",
-			"scope": "entity.name.class, entity.id.ks",
+			"scope": "entity.name.class",
 			"settings": {
-				"foreground": "#53528B"
+				"foreground": "#52708b"
+			}
+		},
+		{
+			"name": "Id name",
+			"scope": "entity.name.id",
+			"settings": {
+				"foreground": "#007b71"
 			}
 		},
 		{
@@ -195,11 +202,11 @@
 			}
 		},
 		{
-			"name": "Tag ibute",
+			"name": "Tag attribute",
 			"scope": "entity.attribute-name",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#52708b"
+				"foreground": "#53528B"
 			}
 		},
 		{
