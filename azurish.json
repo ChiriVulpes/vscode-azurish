@@ -68,7 +68,12 @@
 		"activityBar.background": "#202835",
 		
 		
-		"statusBar.background": "#377082"
+		"statusBar.background": "#377082",
+		
+		"gitDecoration.modifiedResourceForeground": "#55aacc",
+		"gitDecoration.deletedResourceForeground": "#cc8899",
+		"gitDecoration.ignoredResourceForeground": "#778899",
+		"gitDecoration.conflictingResourceForeground": "#8866aa"
 	},
 	"tokenColors": [
 		{
