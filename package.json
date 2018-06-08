@@ -22,7 +22,7 @@
 	"icon": "img/icon.png",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/aarilight/vscode-azurish.git"
+		"url": "https://github.com/yuudaari/vscode-azurish.git"
 	},
 	"__metadata": {
 		"id": "fbc79c12-aacb-4894-93d6-8a94a120a044",

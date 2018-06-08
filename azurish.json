@@ -21,6 +21,7 @@
 		"editor.background": "#181D26",
 		"editor.foreground": "#98A6BF",
 		"editorLineNumber.foreground": "#414d62",
+		"editorLineNumber.activeForeground": "#5a7cb7",
 		"editorCursor.foreground": "#98A6BF",
 		"editor.lineHighlightBackground": "#0F1013",
 		
@@ -35,6 +36,8 @@
 		"editor.findMatchHighlightBackground": "#2c535f",
 		"editor.findRangeHighlightBackground": "#1d2a38",
 		"editor.rangeHighlightBackground": "#2c535f",
+		
+		"editorUnnecessary.foreground": "#3a3494",
 		
 		"editorLink.activeForeground": "#1AC1DE",
 		
