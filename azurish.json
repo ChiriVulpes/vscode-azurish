@@ -62,6 +62,8 @@
 		
 
 		"sideBar.background": "#1b2330",
+		"sideBarSectionHeader.background": "#262f3f",
+		
 		"list.activeSelectionBackground": "#377082",
 		"list.activeSelectionForeground": "#fff",
 		"list.inactiveSelectionBackground": "#22444f",
@@ -76,7 +78,10 @@
 		"gitDecoration.modifiedResourceForeground": "#55aacc",
 		"gitDecoration.deletedResourceForeground": "#cc8899",
 		"gitDecoration.ignoredResourceForeground": "#778899",
-		"gitDecoration.conflictingResourceForeground": "#8866aa"
+		"gitDecoration.conflictingResourceForeground": "#8866aa",
+		
+		"titleBar.activeBackground": "#181D26",
+		"titleBar.inactiveBackground": "#262f3f"
 	},
 	"tokenColors": [
 		{
