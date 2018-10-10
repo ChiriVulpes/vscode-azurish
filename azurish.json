@@ -81,7 +81,11 @@
 		"gitDecoration.conflictingResourceForeground": "#8866aa",
 		
 		"titleBar.activeBackground": "#181D26",
-		"titleBar.inactiveBackground": "#262f3f"
+		"titleBar.inactiveBackground": "#262f3f",
+		"menubar.selectionBackground": "#202939",
+		"menu.background": "#262f3f",
+		"menu.selectionBackground": "#4b5b79",
+		"menu.separatorBackground": "#4b5b79"
 	},
 	"tokenColors": [
 		{
