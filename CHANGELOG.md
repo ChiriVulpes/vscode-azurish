@@ -1,8 +1,3 @@
-# 1.4.2
-
-- Updated preview image.
-
-
 # 1.4.1
 
 - Fixed matched suggestion characters being the same colour as the highlighted background.
