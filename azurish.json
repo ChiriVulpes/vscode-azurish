@@ -1,7 +1,7 @@
 {
 	"name": "Azurish",
 	"colors": {
-		"focusBorder": "#508aaa",
+		"focusBorder": "#337fdd",
 		"foreground": "#afbace",
 		"widget.shadow": "#090a0c",
 		
@@ -68,8 +68,9 @@
 		"list.activeSelectionBackground": "#334159",
 		"list.activeSelectionForeground": "#fff",
 		"list.inactiveSelectionBackground": "#262f3f",
-		"list.hoverBackground": "#1f2c35",
-		"list.dropBackground": "#1f2c35",
+		"list.hoverBackground": "#262f3f",
+		"list.dropBackground": "#262f3f",
+		"list.focusBackground": "#262f3f",
 		
 		"activityBar.background": "#202835",
 		
