@@ -75,7 +75,8 @@
 		"activityBar.background": "#202835",
 		
 		
-		"statusBar.background": "#377082",
+		"statusBar.background": "#2e6391",
+		"statusBar.debuggingBackground": "#2d917d",
 		
 		"gitDecoration.modifiedResourceForeground": "#55aacc",
 		"gitDecoration.deletedResourceForeground": "#cc8899",
