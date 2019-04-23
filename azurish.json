@@ -48,12 +48,13 @@
 		"diffEditor.removedTextBackground": "#27263d",
 		
 		"editorWidget.background": "#262f3f",
-		"editorSuggestWidget.background": "#1f2633",
-		"editorSuggestWidget.border": "#385768",
-		"editorSuggestWidget.highlightForeground": "#508aaa",
-		"editorSuggestWidget.selectedBackground": "#223742",
-		"editorHoverWidget.background": "#1f2633",
-		"editorHoverWidget.border": "#385768",
+		"editorSuggestWidget.background": "#262f3f",
+		"editorSuggestWidget.border": "#334159",
+		"editorSuggestWidget.highlightForeground": "#334159",
+		"editorSuggestWidget.selectedBackground": "#334159",
+		"editorSuggestWidget.selectedForeground": "#fff",
+		"editorHoverWidget.background": "#262f3f",
+		"editorHoverWidget.border": "#334159",
 		
 		"editorGroupHeader.tabsBackground": "#262f3f",
 		"editorGroup.dropBackground": "#11151c",
@@ -64,9 +65,9 @@
 		"sideBar.background": "#1b2330",
 		"sideBarSectionHeader.background": "#262f3f",
 		
-		"list.activeSelectionBackground": "#377082",
+		"list.activeSelectionBackground": "#334159",
 		"list.activeSelectionForeground": "#fff",
-		"list.inactiveSelectionBackground": "#22444f",
+		"list.inactiveSelectionBackground": "#262f3f",
 		"list.hoverBackground": "#1f2c35",
 		"list.dropBackground": "#1f2c35",
 		
