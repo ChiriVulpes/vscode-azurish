@@ -1,3 +1,9 @@
+# 1.5.0
+
+- Redo most syntax theme colour stuff (I finally found the TM Scopes inspector is a thing!)
+- Add error, warning, and info colours (this was not usable using the default ones, since they were switched from green and red)
+
+
 # 1.4.1
 
 - Fixed matched suggestion characters being the same colour as the highlighted background.
