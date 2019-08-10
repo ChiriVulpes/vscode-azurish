@@ -164,6 +164,13 @@
 				"foreground": "#67bfa5"
 			}
 		},
+		{
+			"name": "Number",
+			"scope": "keyword.other.unit",
+			"settings": {
+				"foreground": "#2f7a64"
+			}
+		},
 
 		{
 			"name": "Punctuation",
@@ -210,6 +217,13 @@
 		{
 			"name": "Punctuation",
 			"scope": "keyword.operator",
+			"settings": {
+				"foreground": "#495c80"
+			}
+		},
+		{
+			"name": "Punctuation",
+			"scope": "meta.at-rule.each.scss",
 			"settings": {
 				"foreground": "#495c80"
 			}
@@ -323,22 +337,15 @@
 			}
 		},
 		{
-			"name": "Property",
-			"scope": "variable.other.constant.property",
+			"name": "HTML attribute",
+			"scope": "entity.other.attribute-name",
 			"settings": {
 				"foreground": "#657dbf"
 			}
 		},
 		{
-			"name": "CSS class",
-			"scope": "entity.other.attribute-name.class, entity.other.attribute-name.class punctuation",
-			"settings": {
-				"foreground": "#657dbf"
-			}
-		},
-		{
-			"name": "CSS class",
-			"scope": "entity.other.attribute-name.attribute",
+			"name": "CSS class punctuation",
+			"scope": "entity.other.attribute-name.class punctuation",
 			"settings": {
 				"foreground": "#657dbf"
 			}
@@ -454,10 +461,24 @@
 				"foreground": "#5eb593"
 			}
 		},
+		{
+			"name": "HTML tag name",
+			"scope": "entity.name.tag",
+			"settings": {
+				"foreground": "#5eb593"
+			}
+		},
 		
 		{
 			"name": "Module",
 			"scope": "entity.name.type.module",
+			"settings": {
+				"foreground": "#2f8273"
+			}
+		},
+		{
+			"name": "Scope Resolution",
+			"scope": "entity.name.scope-resolution",
 			"settings": {
 				"foreground": "#2f8273"
 			}
@@ -506,8 +527,23 @@
 			}
 		},
 		{
+			"name": "Function name (batch)",
+			"scope": "keyword.command",
+			"settings": {
+				"foreground": "#207698"
+			}
+		},
+		{
 			"name": "Library function",
 			"scope": "support.function",
+			"settings": {
+				"fontStyle": "",
+				"foreground": "#1d93ab"
+			}
+		},
+		{
+			"name": "Keyword expression",
+			"scope": "keyword.operator.expression",
 			"settings": {
 				"fontStyle": "",
 				"foreground": "#1d93ab"

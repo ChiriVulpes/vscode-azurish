@@ -1,3 +1,10 @@
+# 1.5.1
+
+- Fixed HTML, Batch, C++ syntax highlighting.
+- Fixed comma in SCSS `@each` not using punctuation colour.
+- Keyword expressions (`typeof`/`void`/etc) now use "builtin function" colours.
+
+
 # 1.5.0
 
 - Redo most syntax theme colour stuff (I finally found the TM Scopes inspector is a thing!)
