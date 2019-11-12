@@ -1,3 +1,10 @@
+# 1.6.0
+
+- Highlight colours & borders.
+- New scrollbar colour.
+- Make minimap & scrollbar colours match the highlight colours.
+
+
 # 1.5.1
 
 - Fixed HTML, Batch, C++ syntax highlighting.
