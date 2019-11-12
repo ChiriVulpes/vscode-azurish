@@ -25,17 +25,35 @@
 		"editorCursor.foreground": "#98A6BF",
 		"editor.lineHighlightBackground": "#0F1013",
 		
-		"editor.selectionBackground": "#2C465F",
+		"editor.selectionBackground": "#00c3ff1c",
 		"editor.hoverHighlightBackground": "#1d2a38",
-		"editor.selectionHighlightBackground": "#2C465F",
+		"editor.selectionHighlightBackground": "#46dbff12",
+		"editor.selectionHighlightBorder": "#46dbff3b",
 		"editor.inactiveSelectionBackground": "#1d2a38",
-		"editor.wordHighlightBackground": "#2C465F",
-		"editor.wordHighlightStrongBackground": "#2C465F",
+		"editor.wordHighlightBackground": "#0000",
+		"editor.wordHighlightBorder": "#186092",
+		"editorOverviewRuler.wordHighlightForeground": "#1882ccaa",
+		"editor.wordHighlightStrongBackground": "#0000",
+		"editor.wordHighlightStrongBorder": "#4F3A73",
+		"editorOverviewRuler.wordHighlightStrongForeground": "#6d3dbfaa",
 		
-		"editor.findMatchBackground": "#377082",
-		"editor.findMatchHighlightBackground": "#2c535f",
-		"editor.findRangeHighlightBackground": "#1d2a38",
-		"editor.rangeHighlightBackground": "#2c535f",
+		"editorBracketMatch.background": "#5ff2",
+		"editorOverviewRuler.bracketMatchForeground": "#5ff6",
+		"editorBracketMatch.border": "#0000",
+		
+		"scrollbarSlider.background": "#6ac2",
+		"scrollbarSlider.hoverBackground": "#6ac4",
+		"scrollbarSlider.activeBackground": "#3586",
+		
+		"editor.findMatchBackground": "#00ff001a",
+		"editor.findMatchBorder": "#14964b",
+		"editorOverviewRuler.findMatchForeground": "#14964baa",
+		"editor.findMatchHighlightBackground": "#0000",
+		"editor.findMatchHighlightBorder": "#0F7018",
+		"editor.findRangeHighlightBackground": "#00ff550a",
+		"minimap.findMatchHighlight": "#09680C",
+		
+		"editor.rangeHighlightBackground": "#00ff001a",
 		
 		"editorUnnecessary.foreground": "#3a3494",
 		
