@@ -1,3 +1,8 @@
+# 1.6.1
+
+- Fixed the new "Quick Open" (`ctrl+p`) control having a background colour that matched focused/hovered list items, rendering them completely invisible.
+
+
 # 1.6.0
 
 - Highlight colours & borders.
