@@ -2,7 +2,7 @@
 	"name": "theme-azurish",
 	"displayName": "Azurish",
 	"description": "Kind of Azure, but more -ish.",
-	"version": "1.6.1",
+	"version": "1.7.0",
 	"publisher": "Aarilight",
 	"engines": {
 		"vscode": "^1.12.0"
@@ -22,7 +22,7 @@
 	"icon": "img/icon.png",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/yuudaari/vscode-azurish.git"
+		"url": "https://github.com/ChiriCuddles/vscode-azurish.git"
 	},
 	"__metadata": {
 		"id": "fbc79c12-aacb-4894-93d6-8a94a120a044",

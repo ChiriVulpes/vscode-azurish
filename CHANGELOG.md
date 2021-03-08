@@ -1,3 +1,19 @@
+# 1.7.0
+
+- Make string punctuation a darker version of the string colour
+- Make regex flags the same colour as functions
+- Use different colour for constant variables
+- Use constant variable colour for `this` & `super`
+- Use property colour for quoted string properties (and a darker version for its punctuation)
+- Use support/builtin constant colour for CSS constant property values
+- Fix top-level comma in CSS files
+- Use similar colour to properties for vendor properties in CSS
+- Use a different colour for CSS classes to differentiate them from properties
+- Use a bluer colour for CSS IDs
+- Use same blue for Typescript (and other languages probably) labels
+- Use CSS pseudoclass colour for @keyframes steps
+
+
 # 1.6.1
 
 - Fixed the new "Quick Open" (`ctrl+p`) control having a background colour that matched focused/hovered list items, rendering them completely invisible.
