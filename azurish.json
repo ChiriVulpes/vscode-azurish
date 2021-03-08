@@ -153,10 +153,17 @@
 			}
 		},
 		{
+			"name": "CSS Attribute Selector String",
+			"scope": "meta.attribute-selector",
+			"settings": {
+				"foreground": "#0fb1fc"
+			}
+		},
+		{
 			"name": "String",
 			"scope": "punctuation.definition.string",
 			"settings": {
-				"foreground": "#0fb1fc"
+				"foreground": "#047db5"
 			}
 		},
 
@@ -249,21 +256,14 @@
 
 		{
 			"name": "Built-in constant",
-			"scope": "constant.language",
+			"scope": "constant.language, support.type.primitive, support.type.builtin",
 			"settings": {
 				"foreground": "#0086ff"
 			}
 		},
 		{
-			"name": "Built-in constant",
-			"scope": "support.type.primitive",
-			"settings": {
-				"foreground": "#0086ff"
-			}
-		},
-		{
-			"name": "Built-in constant",
-			"scope": "support.type.builtin",
+			"name": "CSS constant value",
+			"scope": "support.constant.property-value",
 			"settings": {
 				"foreground": "#0086ff"
 			}
@@ -290,6 +290,13 @@
 				"foreground": "#64c1f5"
 			}
 		},
+		{
+			"name": "Constant variable",
+			"scope": "source variable.other.constant",
+			"settings": {
+				"foreground": "#549ad6"
+			}
+		},
 		
 		{
 			"name": "Property",
@@ -303,6 +310,27 @@
 			"scope": "support.variable.property",
 			"settings": {
 				"foreground": "#657dbf"
+			}
+		},
+		{
+			"name": "Property",
+			"scope": "support.type.property-name, meta.object-literal.key string",
+			"settings": {
+				"foreground": "#657dbf"
+			}
+		},
+		{
+			"name": "Property",
+			"scope": "punctuation.support.type.property-name, meta.object-literal.key punctuation.definition.string",
+			"settings": {
+				"foreground": "#465e9e"
+			}
+		},
+		{
+			"name": "Vendor property",
+			"scope": "support.type.vendored.property-name",
+			"settings": {
+				"foreground": "#537acc"
 			}
 		},
 		{
@@ -361,11 +389,19 @@
 				"foreground": "#657dbf"
 			}
 		},
+		
+		{
+			"name": "CSS class",
+			"scope": "entity.other.attribute-name.class",
+			"settings": {
+				"foreground": "#5c79ff"
+			}
+		},
 		{
 			"name": "CSS class punctuation",
 			"scope": "entity.other.attribute-name.class punctuation",
 			"settings": {
-				"foreground": "#657dbf"
+				"foreground": "#5c79ff"
 			}
 		},
 		
@@ -373,13 +409,27 @@
 			"name": "CSS id",
 			"scope": "entity.other.attribute-name.id, entity.other.attribute-name.id punctuation",
 			"settings": {
-				"foreground": "#605dd9"
+				"foreground": "#3d8bff"
+			}
+		},
+		{
+			"name": "Label",
+			"scope": "entity.name.label",
+			"settings": {
+				"foreground": "#3d8bff"
+			}
+		},
+		{
+			"name": "Label colon",
+			"scope": "punctuation.separator.label",
+			"settings": {
+				"foreground": "#2a6ac9"
 			}
 		},
 		
 		{
 			"name": "Keyword",
-			"scope": "keyword.control, keyword.control punctuation",
+			"scope": "keyword.control, keyword.control punctuation, keyword.other",
 			"settings": {
 				"foreground": "#309eb3"
 			}
@@ -404,14 +454,14 @@
 			"name": "Storage",
 			"scope": "variable.language.this",
 			"settings": {
-				"foreground": "#52708b"
+				"foreground": "#549ad6"
 			}
 		},
 		{
 			"name": "Storage",
 			"scope": "variable.language.super",
 			"settings": {
-				"foreground": "#52708b"
+				"foreground": "#549ad6"
 			}
 		},
 		{
@@ -473,10 +523,10 @@
 			}
 		},
 		{
-			"name": "CSS tag name",
+			"name": "CSS outer punctuation",
 			"scope": "source.css",
 			"settings": {
-				"foreground": "#5eb593"
+				"foreground": "#495c80"
 			}
 		},
 		{
@@ -570,6 +620,13 @@
 		{
 			"name": "CSS Pseudo-class",
 			"scope": "entity.other.attribute-name.pseudo-class, entity.other.attribute-name.pseudo-class punctuation",
+			"settings": {
+				"foreground": "#207698"
+			}
+		},
+		{
+			"name": "CSS @keyframes step",
+			"scope": "meta.at-rule.keyframes entity.other.attribute-name",
 			"settings": {
 				"foreground": "#207698"
 			}
