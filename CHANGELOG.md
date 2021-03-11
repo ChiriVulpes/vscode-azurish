@@ -1,3 +1,8 @@
+# 1.7.1
+
+- Fixed tuple property names and colon using label colour instead of property colour.
+
+
 # 1.7.0
 
 - Make string punctuation a darker version of the string colour

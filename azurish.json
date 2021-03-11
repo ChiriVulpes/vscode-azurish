@@ -253,6 +253,13 @@
 				"foreground": "#495c80"
 			}
 		},
+		{
+			"name": "Punctuation",
+			"scope": "meta.type.tuple punctuation.separator.label",
+			"settings": {
+				"foreground": "#495c80"
+			}
+		},
 
 		{
 			"name": "Built-in constant",
@@ -314,7 +321,7 @@
 		},
 		{
 			"name": "Property",
-			"scope": "support.type.property-name, meta.object-literal.key string",
+			"scope": "support.type.property-name, meta.object-literal.key string, meta.type.tuple entity.name.label",
 			"settings": {
 				"foreground": "#657dbf"
 			}
