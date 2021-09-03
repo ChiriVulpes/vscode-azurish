@@ -1,3 +1,11 @@
+# 1.7.2
+
+- Add support for inlay hints.
+- Tweak the activity bar colours.
+- Tweak the title bar colours.
+- Add support for Java annotations.
+
+
 # 1.7.1
 
 - Fixed tuple property names and colon using label colour instead of property colour.

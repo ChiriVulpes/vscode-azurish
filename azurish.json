@@ -20,6 +20,10 @@
 		
 		"editor.background": "#181D26",
 		"editor.foreground": "#98A6BF",
+		
+		"editorInlayHint.background": "#111520",
+		"editorInlayHint.foreground": "#47556e",
+		
 		"editorLineNumber.foreground": "#414d62",
 		"editorLineNumber.activeForeground": "#5a7cb7",
 		"editorCursor.foreground": "#98A6BF",
@@ -91,6 +95,8 @@
 		"list.focusBackground": "#262f3f",
 		
 		"activityBar.background": "#202835",
+		"activityBar.foreground": "#44aaff",
+		"activityBar.inactiveForeground": "#6677aa",
 		
 		
 		"statusBar.background": "#2e6391",
@@ -102,7 +108,9 @@
 		"gitDecoration.conflictingResourceForeground": "#8866aa",
 		
 		"titleBar.activeBackground": "#181D26",
+		"titleBar.activeForeground": "#ccccff",
 		"titleBar.inactiveBackground": "#262f3f",
+		"titleBar.inactiveForeground": "#6688aa",
 		"menubar.selectionBackground": "#202939",
 		"menu.background": "#1b2330",
 		"menu.selectionBackground": "#4b5b79",
@@ -247,8 +255,8 @@
 			}
 		},
 		{
-			"name": "Punctuation",
-			"scope": "meta.at-rule.each.scss",
+			"name": "Punctuation (misc language stuff)",
+			"scope": "meta.at-rule.each.scss, meta.tag.xml, meta.tag.preprocessor.xml",
 			"settings": {
 				"foreground": "#495c80"
 			}
@@ -575,14 +583,14 @@
 		},
 		{
 			"name": "Function name",
-			"scope": "meta.decorator variable",
+			"scope": "meta.decorator variable, storage.type.annotation",
 			"settings": {
 				"foreground": "#207698"
 			}
 		},
 		{
 			"name": "Function name",
-			"scope": "punctuation.decorator",
+			"scope": "punctuation.decorator, punctuation.definition.annotation",
 			"settings": {
 				"foreground": "#207698"
 			}
