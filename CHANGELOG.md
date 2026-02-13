@@ -1,3 +1,9 @@
+# 1.8.0
+
+- Added an initial light theme. Will probably get changes, I've only just started using light themes sometimes in general
+- Added support for a whole bunch of diff colours so that hopefully agent diffs will be better to work with
+
+
 # 1.7.2
 
 - Add support for inlay hints.
