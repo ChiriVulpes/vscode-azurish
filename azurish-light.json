@@ -712,6 +712,27 @@
 				"background": "#00a8c6",
 				"foreground": "#f8f8f0"
 			}
+		},
+		{
+			"name": "Diff context",
+			"scope": "source.diff",
+			"settings": {
+				"foreground": "#8898a8"
+			}
+		},
+		{
+			"name": "Diff +",
+			"scope": "markup.inserted",
+			"settings": {
+				"foreground": "#0a9a50"
+			}
+		},
+		{
+			"name": "Diff -",
+			"scope": "markup.deleted",
+			"settings": {
+				"foreground": "#c83060"
+			}
 		}
 	]
 }

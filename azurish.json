@@ -713,6 +713,22 @@
 				"background": "#00a8c6",
 				"foreground": "#f8f8f0"
 			}
+		},
+		{
+			"name": "Diff +",
+			"scope": "markup.inserted",
+			"settings": {
+				"background": "#1dd97622",
+				"foreground": "#1dd976"
+			}
+		},
+		{
+			"name": "Diff -",
+			"scope": "markup.deleted",
+			"settings": {
+				"background": "#d9487922",
+				"foreground": "#d94879"
+			}
 		}
 	]
 }

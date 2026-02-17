@@ -1,3 +1,8 @@
+# 1.8.1
+
+- Added diff file highlighting support
+
+
 # 1.8.0
 
 - Added an initial light theme. Will probably get changes, I've only just started using light themes sometimes in general
