@@ -733,6 +733,13 @@
 			"settings": {
 				"foreground": "#c83060"
 			}
+		},
+		{
+			"name": "Diff range",
+			"scope": "meta.diff.range, punctuation.definition.range.diff",
+			"settings": {
+				"foreground": "#c4aa00"
+			}
 		}
 	]
 }

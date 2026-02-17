@@ -2,7 +2,7 @@
 	"name": "theme-azurish",
 	"displayName": "Azurish",
 	"description": "Kind of Azure, but more -ish.",
-	"version": "1.8.2",
+	"version": "1.8.3",
 	"publisher": "Aarilight",
 	"engines": {
 		"vscode": "^1.12.0"

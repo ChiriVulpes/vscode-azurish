@@ -715,10 +715,16 @@
 			}
 		},
 		{
+			"name": "Diff context",
+			"scope": "source.diff",
+			"settings": {
+				"foreground": "#5a6a80"
+			}
+		},
+		{
 			"name": "Diff +",
 			"scope": "markup.inserted",
 			"settings": {
-				"background": "#1dd97622",
 				"foreground": "#1dd976"
 			}
 		},
@@ -726,8 +732,14 @@
 			"name": "Diff -",
 			"scope": "markup.deleted",
 			"settings": {
-				"background": "#d9487922",
 				"foreground": "#d94879"
+			}
+		},
+		{
+			"name": "Diff range",
+			"scope": "meta.diff.range, punctuation.definition.range.diff",
+			"settings": {
+				"foreground": "#ffdf80"
 			}
 		}
 	]
